@@ -1,0 +1,41 @@
+what is Data Collection?
+•	The process of collecting information from relevant sources and analysing data in a area of interest 
+Terms Involved: 
+•	Data: Data is a too/information  that helps an investigator in understanding the problem by providing him with the information required.
+•	Investigator: An investigator is a person who conducts the statistical enquiry.
+•	Statistical inquiry means an investigation by any agency on a topic in which the investigator collects the relevant quantitative information.
+•	Enumerators: In order to collect information for statistical enquiry, an investigator needs the help of some people. These people are known as enumerators.
+•	Respondents: A respondent is a person from whom the statistical information required for the enquiry is collected.
+•	Survey: It is a method of collecting information from individuals. The basic purpose of a survey is to collect data to describe different characteristics such as usefulness, quality, price, kindness, etc. It involves asking questions about a product or service from a large number of people.
+
+Types of Data Collection:
+•	Primary: Data is collected from first-hand experience and is not used in the past. The data gathered by primary data collection methods are highly accurate and specific to the research’s motive.
+•	Source of Data: Survey(Survey Monkey), Polls, Interviews, Delphi method, Questionnaires(tools: Question pro) and focus groups.
+•	In the Delphi method, market experts are provided with the estimates and assumptions of other industry experts’ forecasts. Based on this information, experts may reconsider and revise their estimates and assumptions. The consensus of all experts on demand forecasts constitutes the final demand forecast.
+•	In a focus group, a small group of people, around 8-10 members, discuss the common areas of the research problem. Each individual provides his or her insights on the issue concerned. A moderator regulates the discussion among the group members. At the end of the discussion, the group reaches a consensus.
+
+•	Secondary: It has been used in the past. The researcher can obtain data from the data sources, both internal and external, to the organisational data.
+Internal sources of secondary data: Organisation’s health and safety records
+Financial Statements, Sales Report, CRM Software, Executive summaries
+External sources of secondary data: Government publications, Semi-Gov publications, journal & Papers, Libraries, Internet, International publications, unpublished sources
+•	authenticity of the data gathered cannot be verified using the secondary method
+•	More time consuming as we need to clean the data alot.
+
+1.	Quantitive data: refers to the collection of numerical data that can be analysed using statistical methods.
+Continuous(decimal numbers like Age,height,weight) & discrete data(finite numbers- no of vehicles etc)
+2.	Qualitative data:  especially useful when historical data is unavailable or when numbers or mathematical calculations are unnecessary.
+Ex: words, sounds, feelings, emotions, colors, and non-quantifiable elements.
+This method doesn’t provide the motive behind participants’ responses, often don’t reach underrepresented populations, and require long periods of time to collect the data. Hence, it is best to combine quantitative methods with qualitative methods.
+https://scrapingrobot.com/blog/data-collection-methods/#defining%20examples%20of%20data%20collection%20tools
+
+https://www.questionpro.com/blog/data-collection-methods/#Understanding_Data_Collection_Methods
+
+https://www.geeksforgeeks.org/methods-of-data-collection/
+
+7.	What is Web/Data Scraping? 
+It is the process of importing information from a website into a spreadsheet or local file saved on your computer. It’s one of the most efficient ways to get data from the web, and in some cases to channel that data to another website.
+
+8.	What is an API? 
+•	An API is basically a tool that allows different applications to communicate with each other.
+•	Application Program Interface is a set of rules and protocols that allow software programs to interact with each other.
+•	By automating the data collection process, companies can avoid hiring expensive consultants or analysts to collect data manually.
