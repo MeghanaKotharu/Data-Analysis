@@ -1,41 +1,46 @@
 what is Data Collection?
 •	The process of collecting information from relevant sources and analysing data in a area of interest 
-Terms Involved: 
-•	Data: Data is a too/information  that helps an investigator in understanding the problem by providing him with the information required.
-•	Investigator: An investigator is a person who conducts the statistical enquiry.
-•	Statistical inquiry means an investigation by any agency on a topic in which the investigator collects the relevant quantitative information.
-•	Enumerators: In order to collect information for statistical enquiry, an investigator needs the help of some people. These people are known as enumerators.
-•	Respondents: A respondent is a person from whom the statistical information required for the enquiry is collected.
-•	Survey: It is a method of collecting information from individuals. The basic purpose of a survey is to collect data to describe different characteristics such as usefulness, quality, price, kindness, etc. It involves asking questions about a product or service from a large number of people.
 
-Types of Data Collection:
-•	Primary: Data is collected from first-hand experience and is not used in the past. The data gathered by primary data collection methods are highly accurate and specific to the research’s motive.
-•	Source of Data: Survey(Survey Monkey), Polls, Interviews, Delphi method, Questionnaires(tools: Question pro) and focus groups.
-•	In the Delphi method, market experts are provided with the estimates and assumptions of other industry experts’ forecasts. Based on this information, experts may reconsider and revise their estimates and assumptions. The consensus of all experts on demand forecasts constitutes the final demand forecast.
-•	In a focus group, a small group of people, around 8-10 members, discuss the common areas of the research problem. Each individual provides his or her insights on the issue concerned. A moderator regulates the discussion among the group members. At the end of the discussion, the group reaches a consensus.
-
-•	Secondary: It has been used in the past. The researcher can obtain data from the data sources, both internal and external, to the organisational data.
-Internal sources of secondary data: Organisation’s health and safety records
-Financial Statements, Sales Report, CRM Software, Executive summaries
-External sources of secondary data: Government publications, Semi-Gov publications, journal & Papers, Libraries, Internet, International publications, unpublished sources
-•	authenticity of the data gathered cannot be verified using the secondary method
-•	More time consuming as we need to clean the data alot.
-
-1.	Quantitive data: refers to the collection of numerical data that can be analysed using statistical methods.
-Continuous(decimal numbers like Age,height,weight) & discrete data(finite numbers- no of vehicles etc)
-2.	Qualitative data:  especially useful when historical data is unavailable or when numbers or mathematical calculations are unnecessary.
-Ex: words, sounds, feelings, emotions, colors, and non-quantifiable elements.
-This method doesn’t provide the motive behind participants’ responses, often don’t reach underrepresented populations, and require long periods of time to collect the data. Hence, it is best to combine quantitative methods with qualitative methods.
 https://scrapingrobot.com/blog/data-collection-methods/#defining%20examples%20of%20data%20collection%20tools
-
 https://www.questionpro.com/blog/data-collection-methods/#Understanding_Data_Collection_Methods
-
 https://www.geeksforgeeks.org/methods-of-data-collection/
 
 7.	What is Web/Data Scraping? 
-It is the process of importing information from a website into a spreadsheet or local file saved on your computer. It’s one of the most efficient ways to get data from the web, and in some cases to channel that data to another website.
+Web scraping is an automatic method to obtain large amounts of data from websites. 
+•	Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications.
+It’s one of the most efficient ways to get data from the web, and in some cases to channel that data to another website.
+
+How?
+There are many different ways to perform web scraping to obtain data from websites: Online services(Smart Proxy), API’s, even creating your code for web scraping from scratch.
+•	Google, Twitter, Facebook, StackOverflow, etc. have API’s that allow you to access their data in a structured format.
+•	Few websites might not have the facility in that case it is best to use Web Scraping manually
+To perform the Scraping there are 2 steps
+1.	Crawler: It is an AI algorithm that browses the web to search for the particular data required by following the links across the internet.
+2.	Scrapers: It is a specific tool created to extract data from the website. 
+It follows the link provided, loads all the HTML code(Advanced scrapers will get the JS,CSS as well) then converts the required data(should be mentioned else everything will be converted) into mentioned format(Excel spreedsheet /CSV)
+Types of Scraper:
+1.	Browser extensions Web Scrapers: Limited to browser, Easy to use.
+2.	Software Web Scrapers/Local Web scrapers: Can be downloaded into system and run, advanced features that are outside the scope of your browser can be run here
+3.	Cloud Web Scrapers: off-site server mostly provided by the company that you buy the scraper from, Won’t waste computer resources like CPU,RAM
+
+https://www.geeksforgeeks.org/what-is-web-scraping-and-how-to-use-it/
+https://www.zyte.com/learn/what-is-web-scraping/
+
 
 8.	What is an API? 
+•	 In the context of data analysis and reporting, an API can be used to collect data from various sources and then analyze that data in a way that gives you actionable insights.
 •	An API is basically a tool that allows different applications to communicate with each other.
 •	Application Program Interface is a set of rules and protocols that allow software programs to interact with each other.
 •	By automating the data collection process, companies can avoid hiring expensive consultants or analysts to collect data manually.
+•	Ex:  when you use a mobile app to book a hotel room, the app uses an API to communicate with the hotel’s booking system.
+https://www.domo.com/learn/article/how-api-integration-can-enhance-data-analysis-and-reporting
+
+
+
+=====================================================
+27-08-24
+In this project i collected the data in the following manner:
+1.Software Web Scrapping using Excel: I used the website link and pasted it in the Excel data tool and extracted the relevant information, Made some changes and editted the file,
+and clicked transform. 
+
+Tomorrow i will work on the Browser Web Scrapping and API Web scrapping.
