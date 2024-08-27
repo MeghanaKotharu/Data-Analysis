@@ -42,5 +42,8 @@ https://www.domo.com/learn/article/how-api-integration-can-enhance-data-analysis
 In this project i collected the data in the following manner:
 1.Software Web Scrapping using Excel: I used the website link and pasted it in the Excel data tool and extracted the relevant information, Made some changes and editted the file,
 and clicked transform. 
+I also learnt about how to make the links clickable in the data as well as make the images visible
+https://www.youtube.com/watch?v=EOhSODFLqic
+
 
 Tomorrow i will work on the Browser Web Scrapping and API Web scrapping.
