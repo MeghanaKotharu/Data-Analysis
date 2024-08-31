@@ -1,0 +1,11 @@
+31-08-24 13:10pm
+I started a new project on my own and the name of the project is 
+
+" Mobile data Analysis"
+
+The dataset contains the different types of products and their features and helps customers in finding which mobile phone suits their needs and provides them with the best phone possible
+
+1. DataSet Collection:
+I used web scraping method to collect the dataset from a website, the tool i used here is **Instant Data Scrapper** 
+
+2.I need to perfom cleaning of the data and transform it into required manner by cleaning anamolies, null values, duplicate values etc.
