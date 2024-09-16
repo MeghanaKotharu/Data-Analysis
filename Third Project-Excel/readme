@@ -9,3 +9,12 @@ The dataset contains the different types of products and their features and help
 I used web scraping method to collect the dataset from a website, the tool i used here is **Instant Data Scrapper** 
 
 2.I need to perfom cleaning of the data and transform it into required manner by cleaning anamolies, null values, duplicate values etc.
+
+16-09-24 18:38
+
+I know i have been MIA since few days and i haven't uploaded my progress here. That's because i have a lot of issues while working on the project and my laptop is not so easy to work with.
+Anyway, I finished the data cleaning which took alot of time for me due to the web scraping. 
+I used the Power pivot, Conditional Formating, Basic Formulas, Filters, Data Validation and various techniques to perform the cleaning.
+I completed the data analysis as well for which i used various functions like Countif, CountA, VLookup, Match & Find, Data validation for the filters, Pivot Tables, Slicers etc.
+
+I will complete the Data Visualisation as well so that i can finsih off this Project.
